@@ -1014,6 +1014,21 @@ body {
         font-size: 11px;
     }
     .img-box {
+        font-size: 10px;
+    }
+    .skill-heading h1,
+    .about-heading h1,
+    .project-heading h1,
+    .learning-heading h1,
+    .contact-heading h1 {
+        font-size: 1.7rem;
+    }
+    .edu-role {
+        font-size: 22px;
+    }
+    .edu-role span {
+        font-size: 17px;
+    }
     .contact-item i {
         font-size: 16px;
         padding: 1px;
